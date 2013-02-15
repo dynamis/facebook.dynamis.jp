@@ -1,0 +1,11 @@
+{
+  "name": "Facebook Web",
+  "description": "Load Facebook on the Web",
+  "launch_path": "/",
+  "icons": {
+    "32":  "/icons/facebook32.png",
+    "64":  "/icons/facebook64.png",
+    "128": "/icons/facebook128.png",
+    "256": "/icons/facebook256.png"
+  }
+}
